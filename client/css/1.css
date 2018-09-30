@@ -1,0 +1,8 @@
+div{
+    height: 50px;
+    border:1px solid #000000;
+}
+div.attr-solid {
+    height: 50px;
+    border:1px solid red;
+}
